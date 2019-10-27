@@ -9,3 +9,24 @@ h1, h2, h3, h4, button {
 .acHeader {
     margin-top: 3rem;
 }
+
+.jumbotron{
+	padding-top: 2rem !important;
+	padding-bottom: 2rem !important;	
+}
+
+.bg-warning a:link, .bg-warning a:visited{
+	color: darkgreen;
+    text-decoration: underline;
+}
+
+
+
+#aimsList li{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#skillsAccordion1 a.dropdown-toggle {
+    white-space: normal !important;
+}

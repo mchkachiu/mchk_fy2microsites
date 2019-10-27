@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta charset="UTF-8">
+<title>FY2 Microsites</title>
+<link rel="icon" href="../../../../favicon.ico">
+
+<!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<!-- Place your stylesheet here-->
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Mono|Ubuntu&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<main role="main" class="container">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> <a class="navbar-brand" href="#">Microsites</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"> <a href="../index.html" class="nav-link">Home </a></li>
+        <li class="nav-item"> <a class="nav-link" href="#">Link</a> </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Dropdown </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a> </div>
+        </li>
+        <li class="nav-item"> <a class="nav-link disabled" href="#">Disabled</a> </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+<div class="col-12 bg-dark text-light">
+	  <h1 class="text-center ">The Power of Microsites</h1>
+	<h2 class="text-sm-center small">FY2 MYP Design - MCHK</h2>
+	<div class="col-12 text-center acHeader">~~~</div>
+	</div>
+  <div class="jumbotron bg-warning acHeader">
+<div class="row"><h3 class="col text-center">Over time, <strong><em>systems</em></strong> and products are <strong>evaluated </strong>and <strong>adapted</strong></h3></div>
+	</div>
+    <div class="row text-center acHeader">
+	    <div class="col-lg-6 col-sm-12"><a href="#Unit"><button class="btn-info btn-lg"> Unit Intructions </button></a></div>
+      <div class="col-lg-6 col-sm-12"><a href="#Showcase"><button class="btn-success btn-lg"> Showcase </button></a></div>
+	    
+    </div>
+	
+	<div class="col-12">
+	  <h2 id="Showcase" class="acHeader"><a name="Showcase">Showcase</a></h2>
+	</div>
+  <p>The pages here are created by FY2 pupils at MCHK during their MYP Design unit on "The Power of Microsites". </p>
+  <table class="table">
+    <thead class="">
+    <th>FY2A</th>
+      <th>FY2C</th>
+      <th>FY2B</th>
+      </thead>
+  </table>
+</main>
+<!-- /.container -->
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap-4.3.1.js"></script>
+</body>
+</html>
