@@ -20,6 +20,19 @@ h1, h2, h3, h4, button {
     text-decoration: underline;
 }
 
+h1, .h1 {
+	font-size: 1.5rem !important;
+}
+
+h2 .h2 {
+	font-size: 1.3rem !important;
+}
+
+h3 . h3 {
+	font-size: 1.2rem !important;
+
+}
+
 
 
 #aimsList li{
@@ -29,4 +42,9 @@ h1, h2, h3, h4, button {
 
 #skillsAccordion1 a.dropdown-toggle {
     white-space: normal !important;
+}
+
+.acOlItem {
+	display: list-item;
+	margin-left: 2rem !important;
 }
