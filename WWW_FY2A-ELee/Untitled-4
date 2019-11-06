@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<button id="btn">
+点我一下试试
+</button>
+<script>
+btn.onclick=()=>{
+while(1){
+alert("真乖，关不掉我了吧!");
+}
+}
+</script>
+</html>
