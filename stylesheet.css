@@ -55,12 +55,3 @@ p {
     text-decoration: none;    
 }
 
-.breadcrumbs {
-    text-align: right;
-    color: white;
-    padding-right: 50px;
-}
-
-.breadcrumbs a{
-    color: white
-}
