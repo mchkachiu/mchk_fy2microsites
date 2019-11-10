@@ -1,0 +1,55 @@
+h1{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: serif;
+    color: grey;
+}
+
+p {
+    font-size: 15px;
+    color: #666;
+    font-family: sans-serif;
+    line-height: 22px;
+}
+
+#post-head-image{
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+
+.pageTitle{
+    text-align: right;
+    color: white;
+    font-size: 4rem;
+    padding-right: 50px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px black;
+}
+
+.photo {
+    float: right;
+    width: 50%;
+    padding: 20px;
+}
+
+#footer{
+    background: #1a4b35;
+    padding: 40px;
+    color: white;
+}
+
+#footer ul li{
+    display: inline;
+    margin: 10px
+    
+}
+
+#footer ul li a{
+    color:#ccc;
+    text-decoration: none;
+}
+
+#footer ul li a:hover{
+    color:#aaa;
+    text-decoration: none;    
+}
