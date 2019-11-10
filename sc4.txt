@@ -13,12 +13,6 @@
 				https://www.malverncollege.org.hk/wp-content/uploads/2019/06/MCHK-About-Us-Banner.jpg				) center; background-size: cover;" >
 
         <h1 class="pageTitle">About Us</h1>
-        <div class="breadcrumbs">
-            <ul id="crumbs">
-                <li><a href="https://www.malverncollege.org.hk">Home</a></li>
-            </ul>
-
-        </div>
     </div>
 
     <div id="main">
@@ -31,7 +25,8 @@
 
 
         
-        <hr>
+        <hr style="width:100%; margin: 40px 40px 0px 0px;">
+        
         <h1>Our Vision</h1>
         <p>Malvern College Hong Kong seeks to develop independent, forward-thinking individuals who demonstrate strength of character, confidence, responsibility and compassion. We are committed to giving pupils a rich and varied learning environment to encourage them to be inquisitive and critical learners, passionate about engaging with the world as global citizens and confident to face challenges and fulfil their academic and personal potential.</p>
         <h1>Our Mission</h1>
