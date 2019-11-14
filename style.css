@@ -48,3 +48,12 @@ h3 . h3 {
 	display: list-item;
 	margin-left: 2rem !important;
 }
+
+.FY2B>a{
+    visibility: hidden;
+}
+
+#maintable>div{
+    margin: 10px 10px 10px 10px;
+    background-color: #ccc;
+}
