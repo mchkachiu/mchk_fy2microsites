@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Welcome</h1>
+
+<p>This page has an heading, paragraph and an image</p>
+<img src="https://www.boshanka.co.uk/wp-content/themes/boshanka-baseplate/timthumb.php?src=https%3A%2F%2Fwww.boshanka.co.uk%2Fwp-content%2Fuploads%2F2013%2F04%2Fmyfirstwebsite.jpg&q=90&w=702&h=350&zc=1"
+
+</body>
+</html>
