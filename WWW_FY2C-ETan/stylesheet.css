@@ -1,0 +1,26 @@
+h2{
+font-size:  18px;
+font-family: sans-serif;
+color: grey;
+}
+
+p{
+font-size:  15px;
+font-family: sans-serif;
+line-height: 22px;
+color: #666;   
+    
+}
+
+#post-head-image {
+padding-top: 140px;
+padding-bottom: 140px;
+    
+}
+
+.pageTitle {
+text-shadow: 5px 5px 10px black;
+font-size: 4rem;
+text-transform: uppercase;
+color: white;
+}
