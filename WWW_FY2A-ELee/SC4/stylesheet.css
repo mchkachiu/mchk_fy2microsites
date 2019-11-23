@@ -1,0 +1,10 @@
+h1{
+    font-size: 18px;
+    font-family: serif;
+    color: darkgrey
+}
+p{
+    font-size: 15px;
+    font-family: sans-serif;
+    line-height: 22px;
+}
