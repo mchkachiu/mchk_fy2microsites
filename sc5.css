@@ -1,0 +1,35 @@
+.iconBox{
+    height: 40px;
+    width: 40px;
+    background-image: url("images/greyface.png");
+    background-size: contain !important; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.nameTitle{
+    max-height: 40px !important;
+    height: 40px !important;
+    overflow: hidden;
+}
+
+div {
+    vertical-align: middle;
+}
+
+span.tick {
+    color:white;
+    font-weight: 600;
+    font-size: 18px;
+}
+span.cross {
+    color:green;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+div.jumbotron {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
