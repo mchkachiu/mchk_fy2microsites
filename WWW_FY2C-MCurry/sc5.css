@@ -1,0 +1,8 @@
+.MCurryBox iconbox, .MCurryBox nameTitle, .MCurryBox:{
+    background-color: green
+}
+
+#MCurryTitle{
+    font-weight: 800px;
+    color: white;
+}

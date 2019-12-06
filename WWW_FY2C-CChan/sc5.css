@@ -1,0 +1,10 @@
+
+.CChanBox iconBox, .CChanBox nameTitle, .CChanBox{
+    background-color: green;
+}
+
+#CChanBox{
+    color: green;
+    font-weight: 100;
+}
+

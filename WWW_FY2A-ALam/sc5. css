@@ -1,0 +1,7 @@
+.ALamBox {
+    background-color: green;
+color: white;
+}
+.ALamBox{
+    font-weight: bold;
+}
