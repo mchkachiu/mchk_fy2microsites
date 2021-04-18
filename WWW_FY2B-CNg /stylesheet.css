@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+font-size: 18px;
+font-family: serif;
+font-colour: grey;
+}
+p{
+font-size: 15px;
+font-family: san-serif;
+height: 22px;
+font-colour: #666;
+}
+#post-head-image{
+padding-top: 140px;
+padding-bottom: 140px;
+}
+.pageTitle{
+text-shadow:2px 2px;
+font-size: 4rm;
+text-transform: uppercase;
+font-colour: white;
+}
+</style>
+</head>
+</html>

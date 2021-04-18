@@ -1,13 +1,7 @@
-#AChiuTitle{
-    font-size: 25px;
-    font-weight: 800;
-    color: white;
-}
-
 .AChiuBox {
     background-color: green;
 }
 
-#AChiuIcon {
-    background-image: url("achiu.jpg")
+#AChiuTitle {
+    
 }
